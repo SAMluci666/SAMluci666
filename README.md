@@ -24,6 +24,3 @@ I'm particularly excited about the opportunity to work on live projects, where I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SAMluci666&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMluci666&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
  </center>
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
