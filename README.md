@@ -1,6 +1,7 @@
 # Hi, I'm Samar <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> 
 
-<p align="center">[![](https://visitcount.itsvg.in/api?id=SAMluci666&icon=8&color=11)](https://visitcount.itsvg.in)</p>
+[![](https://visitcount.itsvg.in/api?id=SAMluci666&icon=8&color=11)](https://visitcount.itsvg.in)
+
 I'm a final-year student at Ujjain Engineering College with a passion for learning and applying new technologies to real-world challenges. My journey so far has made me proficient in C programming, and I've also explored C++ and Java, giving me a strong foundation in software development.
 
 I'm particularly excited about the opportunity to work on live projects, where I can put my skills to the test and continue growing as a developer. If you're interested in collaboration or have any exciting projects in mind, feel free to reach out!
