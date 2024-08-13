@@ -6,7 +6,7 @@ I'm a final-year student at Ujjain Engineering College with a passion for learni
 
 I'm particularly excited about the opportunity to work on live projects, where I can put my skills to the test and continue growing as a developer. If you're interested in collaboration or have any exciting projects in mind, feel free to reach out!
 
-📫 Reach me at **samar.sam2003@gmail.com**
+📫 Reach me at **samar.sam2003@gmail.com** <br>
 🔭 I’m currently working on my DSA Skills<br>
 👯 I’m looking to collaborate on Development Projects<br>
 🤝 I’m looking for help with Getting Internships<br>
