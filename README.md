@@ -14,7 +14,11 @@ I'm particularly excited about the opportunity to work on live projects, where I
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />Find me at: - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samar-singla-681300223/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/SAMLuci666/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SamarSingla6)
 <details>
 <summary>Fun `facts` about me </summary>
-- My favourite language is C.
+ <ul> 
+<li> My favourite language is C. <br>
+<li> I <bold>love</bold> reading book, especially Fiction. <br>
+<li> I also love playing `games` and like to work on developing them too. <br> 
+ </ul>
 </details>
 
 ## 💻 Tech Stack
