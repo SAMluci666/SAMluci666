@@ -20,6 +20,7 @@ I'm also learning Web Development at Sparta <br>
 <li> I <bold>love</bold> reading book, especially Fiction. <br>
 <li> I also love playing `games` and like to work on developing them too. <br> 
  </ul>
+ <li></li>
 </details>
 
 ## 💻 Tech Stack
