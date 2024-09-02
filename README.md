@@ -17,8 +17,8 @@ I'm also learning Web Development at Sparta <br>
 <summary>Fun `facts` about me </summary>
  <ul> 
 <li> My favourite language is C. <br>
-<li> I <bold>love</bold> reading book, especially Fiction. <br>
-<li> I also love playing `games` and like to work on developing them too. <br> 
+<li> I <bold>love</bold> reading book, especially Fiction.  <a href="https://website-name.com](https://www.goodreads.com/user/show/103113992-samar-singla">Goodreads</a><br>
+<li> I also love playing `games` and like to work on developing them too. <br>
  </ul>
 </details>
 
@@ -33,3 +33,4 @@ I'm also learning Web Development at Sparta <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SAMluci666&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMluci666&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
  </center>
+
