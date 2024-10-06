@@ -8,7 +8,7 @@ I'm particularly excited about the opportunity to work on live projects, where I
 
 📫 Reach me at **samar.sam2003@gmail.com** <br>
 🔭 I’m currently working on my DSA Skills<br>
-👯 I’m looking to collaborate on Development Projects<br>
+👯 I’m trying to get into Open Source Contributions<br>
 🤝 I’m looking for help with Getting Internships<br>
 🌱 I’m currently learning Java <br>
 I'm also learning Web Development at Sparta <br>
